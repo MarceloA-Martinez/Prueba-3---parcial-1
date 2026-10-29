@@ -2,9 +2,9 @@ package sistemadegestiondeempleados;
 
 import javax.swing.SwingUtilities;
 
-public class Main {
+public class Sistemadegestiondeempleados {
 
-    public static void main(String[] args) {
+    public static void Sistemadegestiondeempleados(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new VentanaPrincipal().setVisible(true);
         });
